@@ -62,5 +62,5 @@ The dashboard allows:
 ---
 
 ## 👨‍💻 Author
-**Your Name**  
+**Raj Choithramani**  
 IoT-Based Robotics Project  
